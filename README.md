@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Felipe Siqueira
+FelipeSking
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
